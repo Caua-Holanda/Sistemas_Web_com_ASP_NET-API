@@ -1,0 +1,17 @@
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\bin\Debug\net8.0\Vibra.Infra.deps.json
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\bin\Debug\net8.0\Vibra.Infra.runtimeconfig.json
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\bin\Debug\net8.0\Vibra.Infra.dll
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\bin\Debug\net8.0\Vibra.Infra.pdb
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\bin\Debug\net8.0\Vibra.DomainModel.dll
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\bin\Debug\net8.0\Vibra.DomainModel.pdb
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\obj\Debug\net8.0\Vibra.Infra.csproj.AssemblyReference.cache
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\obj\Debug\net8.0\Vibra.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\obj\Debug\net8.0\Vibra.Infra.AssemblyInfoInputs.cache
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\obj\Debug\net8.0\Vibra.Infra.AssemblyInfo.cs
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\obj\Debug\net8.0\Vibra.Infra.csproj.CoreCompileInputs.cache
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\obj\Debug\net8.0\Vibra.In.A4410589.Up2Date
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\obj\Debug\net8.0\Vibra.Infra.dll
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\obj\Debug\net8.0\refint\Vibra.Infra.dll
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\obj\Debug\net8.0\Vibra.Infra.pdb
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\obj\Debug\net8.0\Vibra.Infra.genruntimeconfig.cache
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.Infra\obj\Debug\net8.0\ref\Vibra.Infra.dll

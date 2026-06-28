@@ -1,0 +1,15 @@
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.DomainService\bin\Debug\net8.0\Vibra.DomainService.deps.json
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.DomainService\bin\Debug\net8.0\Vibra.DomainService.dll
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.DomainService\bin\Debug\net8.0\Vibra.DomainService.pdb
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.DomainService\bin\Debug\net8.0\Vibra.DomainModel.dll
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.DomainService\bin\Debug\net8.0\Vibra.DomainModel.pdb
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.DomainService\obj\Debug\net8.0\Vibra.DomainService.csproj.AssemblyReference.cache
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.DomainService\obj\Debug\net8.0\Vibra.DomainService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.DomainService\obj\Debug\net8.0\Vibra.DomainService.AssemblyInfoInputs.cache
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.DomainService\obj\Debug\net8.0\Vibra.DomainService.AssemblyInfo.cs
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.DomainService\obj\Debug\net8.0\Vibra.DomainService.csproj.CoreCompileInputs.cache
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.DomainService\obj\Debug\net8.0\Vibra.Do.22A76F6D.Up2Date
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.DomainService\obj\Debug\net8.0\Vibra.DomainService.dll
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.DomainService\obj\Debug\net8.0\refint\Vibra.DomainService.dll
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.DomainService\obj\Debug\net8.0\Vibra.DomainService.pdb
+D:\Fontes\CauaHolanda_SistemasWebcomASP.NET_pd\Vibra\Vibra.DomainService\obj\Debug\net8.0\ref\Vibra.DomainService.dll

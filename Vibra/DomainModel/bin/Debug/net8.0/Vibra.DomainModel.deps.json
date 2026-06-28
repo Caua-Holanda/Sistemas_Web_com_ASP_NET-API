@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Vibra.DomainModel/1.0.0": {
+        "runtime": {
+          "Vibra.DomainModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vibra.DomainModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

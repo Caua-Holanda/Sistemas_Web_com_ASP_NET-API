@@ -1,0 +1,922 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.domainservice\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|solutionrelative:vibra.domainservice\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.domainservice\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|solutionrelative:vibra.domainservice\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\mappings\\transactionmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\mappings\\transactionmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\context\\vibradbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\context\\vibradbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\mappings\\cardmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\mappings\\cardmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.domainservice\\favoritebandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|solutionrelative:vibra.domainservice\\favoritebandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\domainmodel\\entities\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|solutionrelative:domainmodel\\entities\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.domainservice\\vibra.domainservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|solutionrelative:vibra.domainservice\\vibra.domainservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\configurations\\swaggerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\configurations\\swaggerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\controllers\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\controllers\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.domainservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|solutionrelative:vibra.domainservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\vibra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\vibra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.domainservice\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|solutionrelative:vibra.domainservice\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\domainmodel\\vibra.domainmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|solutionrelative:domainmodel\\vibra.domainmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\unitofwork\\entityframeworkunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\unitofwork\\entityframeworkunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\mappings\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\mappings\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\mappings\\subscriptionmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\mappings\\subscriptionmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\mappings\\songmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\mappings\\songmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\mappings\\playlistsongmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\mappings\\playlistsongmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\mappings\\playlistmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\mappings\\playlistmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\mappings\\planmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\mappings\\planmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\mappings\\favoritesongmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\mappings\\favoritesongmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\mappings\\favoritebandmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\mappings\\favoritebandmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\mappings\\bandmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\mappings\\bandmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\mappings\\albummapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\mappings\\albummapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\domainmodel\\entities\\band.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|solutionrelative:domainmodel\\entities\\band.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\domainmodel\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|solutionrelative:domainmodel\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\controllers\\favoritesongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\controllers\\favoritesongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\controllers\\favoritebandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\controllers\\favoritebandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\controllers\\bandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\controllers\\bandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\music.api\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4B656A-9DCA-49B9-8726-5CE21842127F}|Music.Api\\Vibra.csproj|solutionrelative:music.api\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\domainmodel\\interfaces\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|solutionrelative:domainmodel\\interfaces\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.domainservice\\albumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|solutionrelative:vibra.domainservice\\albumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\domainmodel\\dtos\\transaction\\transactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|solutionrelative:domainmodel\\dtos\\transaction\\transactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\domainmodel\\enums\\enumstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|solutionrelative:domainmodel\\enums\\enumstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\domainmodel\\dtos\\transaction\\transactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}|DomainModel\\Vibra.DomainModel.csproj|solutionrelative:domainmodel\\dtos\\transaction\\transactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.infra\\vibra.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DBB1CF3-838C-445D-AD29-ABE12B05A742}|Vibra.Infra\\Vibra.Infra.csproj|solutionrelative:vibra.infra\\vibra.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.domainservice\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|solutionrelative:vibra.domainservice\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.domainservice\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|solutionrelative:vibra.domainservice\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.domainservice\\bandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|solutionrelative:vibra.domainservice\\bandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.domainservice\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|solutionrelative:vibra.domainservice\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.domainservice\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|solutionrelative:vibra.domainservice\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|d:\\fontes\\cauaholanda_sistemaswebcomasp.net_pd\\vibra\\vibra.domainservice\\favoritesongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A35F26-1D90-4B67-A10D-30F13BDF7655}|Vibra.DomainService\\Vibra.DomainService.csproj|solutionrelative:vibra.domainservice\\favoritesongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 49,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Music.Api\\appsettings.json",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\appsettings.json",
+              "RelativeToolTip": "Music.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-27T23:21:54.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VibraDbContext.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Context\\VibraDbContext.cs",
+              "RelativeDocumentMoniker": "Vibra.Infra\\Context\\VibraDbContext.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Context\\VibraDbContext.cs",
+              "RelativeToolTip": "Vibra.Infra\\Context\\VibraDbContext.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAIAwwNoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T23:20:59.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjectionConfig.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\DependencyInjectionConfig.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Controllers\\DependencyInjectionConfig.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\DependencyInjectionConfig.cs",
+              "RelativeToolTip": "Music.Api\\Controllers\\DependencyInjectionConfig.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T22:49:14.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SwaggerConfiguration.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Configurations\\SwaggerConfiguration.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Configurations\\SwaggerConfiguration.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Configurations\\SwaggerConfiguration.cs",
+              "RelativeToolTip": "Music.Api\\Configurations\\SwaggerConfiguration.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T22:46:05.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Startup.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Startup.cs",
+              "RelativeToolTip": "Music.Api\\Startup.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T22:34:58.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Music.Api\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Music.Api\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAgwJoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T22:34:02.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FavoriteBandMapping.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\FavoriteBandMapping.cs",
+              "RelativeDocumentMoniker": "Vibra.Infra\\Mappings\\FavoriteBandMapping.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\FavoriteBandMapping.cs",
+              "RelativeToolTip": "Vibra.Infra\\Mappings\\FavoriteBandMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:09:13.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AlbumMapping.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\AlbumMapping.cs",
+              "RelativeDocumentMoniker": "Vibra.Infra\\Mappings\\AlbumMapping.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\AlbumMapping.cs",
+              "RelativeToolTip": "Vibra.Infra\\Mappings\\AlbumMapping.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:08:52.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BandMapping.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\BandMapping.cs",
+              "RelativeDocumentMoniker": "Vibra.Infra\\Mappings\\BandMapping.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\BandMapping.cs",
+              "RelativeToolTip": "Vibra.Infra\\Mappings\\BandMapping.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:08:49.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardMapping.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\CardMapping.cs",
+              "RelativeDocumentMoniker": "Vibra.Infra\\Mappings\\CardMapping.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\CardMapping.cs",
+              "RelativeToolTip": "Vibra.Infra\\Mappings\\CardMapping.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:08:44.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FavoriteSongMapping.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\FavoriteSongMapping.cs",
+              "RelativeDocumentMoniker": "Vibra.Infra\\Mappings\\FavoriteSongMapping.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\FavoriteSongMapping.cs",
+              "RelativeToolTip": "Vibra.Infra\\Mappings\\FavoriteSongMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:08:36.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlanMapping.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\PlanMapping.cs",
+              "RelativeDocumentMoniker": "Vibra.Infra\\Mappings\\PlanMapping.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\PlanMapping.cs",
+              "RelativeToolTip": "Vibra.Infra\\Mappings\\PlanMapping.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:08:34.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PlaylistMapping.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\PlaylistMapping.cs",
+              "RelativeDocumentMoniker": "Vibra.Infra\\Mappings\\PlaylistMapping.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\PlaylistMapping.cs",
+              "RelativeToolTip": "Vibra.Infra\\Mappings\\PlaylistMapping.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:08:29.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlaylistSongMapping.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\PlaylistSongMapping.cs",
+              "RelativeDocumentMoniker": "Vibra.Infra\\Mappings\\PlaylistSongMapping.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\PlaylistSongMapping.cs",
+              "RelativeToolTip": "Vibra.Infra\\Mappings\\PlaylistSongMapping.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:07:42.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SongMapping.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\SongMapping.cs",
+              "RelativeDocumentMoniker": "Vibra.Infra\\Mappings\\SongMapping.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\SongMapping.cs",
+              "RelativeToolTip": "Vibra.Infra\\Mappings\\SongMapping.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:06:30.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SubscriptionMapping.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\SubscriptionMapping.cs",
+              "RelativeDocumentMoniker": "Vibra.Infra\\Mappings\\SubscriptionMapping.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\SubscriptionMapping.cs",
+              "RelativeToolTip": "Vibra.Infra\\Mappings\\SubscriptionMapping.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:06:29.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionMapping.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\TransactionMapping.cs",
+              "RelativeDocumentMoniker": "Vibra.Infra\\Mappings\\TransactionMapping.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\TransactionMapping.cs",
+              "RelativeToolTip": "Vibra.Infra\\Mappings\\TransactionMapping.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:06:28.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserMapping.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\UserMapping.cs",
+              "RelativeDocumentMoniker": "Vibra.Infra\\Mappings\\UserMapping.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Mappings\\UserMapping.cs",
+              "RelativeToolTip": "Vibra.Infra\\Mappings\\UserMapping.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:06:27.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Vibra.Infra\\Repository\\Repository.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Repository\\Repository.cs",
+              "RelativeToolTip": "Vibra.Infra\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:05:37.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EntityFrameworkUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\UnitOfwork\\EntityFrameworkUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Vibra.Infra\\UnitOfwork\\EntityFrameworkUnitOfWork.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\UnitOfwork\\EntityFrameworkUnitOfWork.cs",
+              "RelativeToolTip": "Vibra.Infra\\UnitOfwork\\EntityFrameworkUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T19:04:54.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Music.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T03:22:44.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Controllers\\TransactionController.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Music.Api\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T03:22:28.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SubscriptionController.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\SubscriptionController.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Controllers\\SubscriptionController.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\SubscriptionController.cs",
+              "RelativeToolTip": "Music.Api\\Controllers\\SubscriptionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T03:22:15.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SongController.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\SongController.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Controllers\\SongController.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\SongController.cs",
+              "RelativeToolTip": "Music.Api\\Controllers\\SongController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T03:21:58.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PlaylistController.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\PlaylistController.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Controllers\\PlaylistController.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\PlaylistController.cs",
+              "RelativeToolTip": "Music.Api\\Controllers\\PlaylistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T03:21:46.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PlanController.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\PlanController.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Controllers\\PlanController.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\PlanController.cs",
+              "RelativeToolTip": "Music.Api\\Controllers\\PlanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T03:21:35.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FavoriteSongController.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\FavoriteSongController.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Controllers\\FavoriteSongController.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\FavoriteSongController.cs",
+              "RelativeToolTip": "Music.Api\\Controllers\\FavoriteSongController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T03:21:23.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FavoriteBandController.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\FavoriteBandController.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Controllers\\FavoriteBandController.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\FavoriteBandController.cs",
+              "RelativeToolTip": "Music.Api\\Controllers\\FavoriteBandController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T03:21:08.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Controllers\\CardController.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\CardController.cs",
+              "RelativeToolTip": "Music.Api\\Controllers\\CardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T03:20:51.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BandController.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\BandController.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Controllers\\BandController.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\BandController.cs",
+              "RelativeToolTip": "Music.Api\\Controllers\\BandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T03:20:38.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AlbumController.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\AlbumController.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Controllers\\AlbumController.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\AlbumController.cs",
+              "RelativeToolTip": "Music.Api\\Controllers\\AlbumController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T03:20:23.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Music.Api\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T04:00:49.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Music.Api\\Program.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Program.cs",
+              "RelativeToolTip": "Music.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:59:37.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\Interfaces\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "DomainModel\\Interfaces\\Services\\IAccountService.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\Interfaces\\Services\\IAccountService.cs",
+              "RelativeToolTip": "DomainModel\\Interfaces\\Services\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:59:07.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TransactionResponseDto.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\DTOs\\Transaction\\TransactionResponseDto.cs",
+              "RelativeDocumentMoniker": "DomainModel\\DTOs\\Transaction\\TransactionResponseDto.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\DTOs\\Transaction\\TransactionResponseDto.cs",
+              "RelativeToolTip": "DomainModel\\DTOs\\Transaction\\TransactionResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:58:10.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TransactionCreateDto.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\DTOs\\Transaction\\TransactionCreateDto.cs",
+              "RelativeDocumentMoniker": "DomainModel\\DTOs\\Transaction\\TransactionCreateDto.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\DTOs\\Transaction\\TransactionCreateDto.cs",
+              "RelativeToolTip": "DomainModel\\DTOs\\Transaction\\TransactionCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:58:10.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Vibra.csproj",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Vibra.csproj",
+              "RelativeDocumentMoniker": "Music.Api\\Vibra.csproj",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Music.Api\\Vibra.csproj",
+              "RelativeToolTip": "Music.Api\\Vibra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-24T03:54:18.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Vibra.Infra.csproj",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Vibra.Infra.csproj",
+              "RelativeDocumentMoniker": "Vibra.Infra\\Vibra.Infra.csproj",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.Infra\\Vibra.Infra.csproj",
+              "RelativeToolTip": "Vibra.Infra\\Vibra.Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-24T03:54:16.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vibra.DomainService.csproj",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\Vibra.DomainService.csproj",
+              "RelativeDocumentMoniker": "Vibra.DomainService\\Vibra.DomainService.csproj",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\Vibra.DomainService.csproj",
+              "RelativeToolTip": "Vibra.DomainService\\Vibra.DomainService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-24T03:53:56.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\EntityBase.cs",
+              "RelativeDocumentMoniker": "DomainModel\\EntityBase.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\EntityBase.cs",
+              "RelativeToolTip": "DomainModel\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:53:26.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Band.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\Entities\\Band.cs",
+              "RelativeDocumentMoniker": "DomainModel\\Entities\\Band.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\Entities\\Band.cs",
+              "RelativeToolTip": "DomainModel\\Entities\\Band.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:53:04.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Album.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\Entities\\Album.cs",
+              "RelativeDocumentMoniker": "DomainModel\\Entities\\Album.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\Entities\\Album.cs",
+              "RelativeToolTip": "DomainModel\\Entities\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:52:47.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EnumStatus.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\Enums\\EnumStatus.cs",
+              "RelativeDocumentMoniker": "DomainModel\\Enums\\EnumStatus.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\Enums\\EnumStatus.cs",
+              "RelativeToolTip": "DomainModel\\Enums\\EnumStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:39:05.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Vibra.DomainModel.csproj",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\Vibra.DomainModel.csproj",
+              "RelativeDocumentMoniker": "DomainModel\\Vibra.DomainModel.csproj",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\DomainModel\\Vibra.DomainModel.csproj",
+              "RelativeToolTip": "DomainModel\\Vibra.DomainModel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-24T03:33:11.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\UserService.cs",
+              "RelativeDocumentMoniker": "Vibra.DomainService\\UserService.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\UserService.cs",
+              "RelativeToolTip": "Vibra.DomainService\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:31:55.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Vibra.DomainService\\TransactionService.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\TransactionService.cs",
+              "RelativeToolTip": "Vibra.DomainService\\TransactionService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:31:41.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\Subscription.cs",
+              "RelativeDocumentMoniker": "Vibra.DomainService\\Subscription.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\Subscription.cs",
+              "RelativeToolTip": "Vibra.DomainService\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:31:26.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SongService.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\SongService.cs",
+              "RelativeDocumentMoniker": "Vibra.DomainService\\SongService.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\SongService.cs",
+              "RelativeToolTip": "Vibra.DomainService\\SongService.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:31:12.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlaylistService.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\PlaylistService.cs",
+              "RelativeDocumentMoniker": "Vibra.DomainService\\PlaylistService.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\PlaylistService.cs",
+              "RelativeToolTip": "Vibra.DomainService\\PlaylistService.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAywK4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:30:57.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PlanService.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\PlanService.cs",
+              "RelativeDocumentMoniker": "Vibra.DomainService\\PlanService.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\PlanService.cs",
+              "RelativeToolTip": "Vibra.DomainService\\PlanService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:30:33.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FavoriteSongService.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\FavoriteSongService.cs",
+              "RelativeDocumentMoniker": "Vibra.DomainService\\FavoriteSongService.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\FavoriteSongService.cs",
+              "RelativeToolTip": "Vibra.DomainService\\FavoriteSongService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:30:21.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FavoriteBandService.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\FavoriteBandService.cs",
+              "RelativeDocumentMoniker": "Vibra.DomainService\\FavoriteBandService.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\FavoriteBandService.cs",
+              "RelativeToolTip": "Vibra.DomainService\\FavoriteBandService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:30:07.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CardService.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\CardService.cs",
+              "RelativeDocumentMoniker": "Vibra.DomainService\\CardService.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\CardService.cs",
+              "RelativeToolTip": "Vibra.DomainService\\CardService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:29:49.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BandService.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\BandService.cs",
+              "RelativeDocumentMoniker": "Vibra.DomainService\\BandService.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\BandService.cs",
+              "RelativeToolTip": "Vibra.DomainService\\BandService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:29:30.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AlbumService.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\AlbumService.cs",
+              "RelativeDocumentMoniker": "Vibra.DomainService\\AlbumService.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\AlbumService.cs",
+              "RelativeToolTip": "Vibra.DomainService\\AlbumService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAewDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:29:11.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\AccountService.cs",
+              "RelativeDocumentMoniker": "Vibra.DomainService\\AccountService.cs",
+              "ToolTip": "D:\\Fontes\\CauaHolanda_SistemasWebcomASP.NET_pd\\Vibra\\Vibra.DomainService\\AccountService.cs",
+              "RelativeToolTip": "Vibra.DomainService\\AccountService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T03:28:32.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

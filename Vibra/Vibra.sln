@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vibra", "Music.Api\Vibra.csproj", "{0E4B656A-9DCA-49B9-8726-5CE21842127F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{E1A7D4FB-DFAD-49BE-8637-8BD96CF9DB72}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{CA33CA64-FFDE-4E68-86F1-FE893D637CA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vibra.DomainModel", "DomainModel\Vibra.DomainModel.csproj", "{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vibra.DomainService", "Vibra.DomainService\Vibra.DomainService.csproj", "{A1A35F26-1D90-4B67-A10D-30F13BDF7655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vibra.Infra", "Vibra.Infra\Vibra.Infra.csproj", "{3DBB1CF3-838C-445D-AD29-ABE12B05A742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E4B656A-9DCA-49B9-8726-5CE21842127F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4B656A-9DCA-49B9-8726-5CE21842127F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4B656A-9DCA-49B9-8726-5CE21842127F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4B656A-9DCA-49B9-8726-5CE21842127F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A35F26-1D90-4B67-A10D-30F13BDF7655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A35F26-1D90-4B67-A10D-30F13BDF7655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A35F26-1D90-4B67-A10D-30F13BDF7655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A35F26-1D90-4B67-A10D-30F13BDF7655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DBB1CF3-838C-445D-AD29-ABE12B05A742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DBB1CF3-838C-445D-AD29-ABE12B05A742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DBB1CF3-838C-445D-AD29-ABE12B05A742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DBB1CF3-838C-445D-AD29-ABE12B05A742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E4B656A-9DCA-49B9-8726-5CE21842127F} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{83BF0E1C-BB6E-434B-8F4D-251F0FC4C718} = {E1A7D4FB-DFAD-49BE-8637-8BD96CF9DB72}
+		{A1A35F26-1D90-4B67-A10D-30F13BDF7655} = {E1A7D4FB-DFAD-49BE-8637-8BD96CF9DB72}
+		{3DBB1CF3-838C-445D-AD29-ABE12B05A742} = {CA33CA64-FFDE-4E68-86F1-FE893D637CA4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C11C728A-B139-49C4-9F7B-EA32EC3A4913}
+	EndGlobalSection
+EndGlobal
